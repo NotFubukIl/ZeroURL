@@ -1,5 +1,5 @@
 # ZeroURL
-<p align="right">
+<p align="left">
   <img src="https://raw.githubusercontent.com/NotFubukIl/ZeroURL/main/data/pngegg%20(1).png" width="350">
 </p>
 </br>
