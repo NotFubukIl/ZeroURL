@@ -1,10 +1,8 @@
-## Url Shorteners Alias YuniraURL
-### With python made by Unknown User
-
-<p align="center">
-  <img src="https://cdn.donmai.us/original/0e/a4/0ea4a25416f850823d62d61ce51fc659.png" weight=300>
+# ZeroURL
+<p align="right">
+  <img src="https://imgs.search.brave.com/r8bONEpDC0-OFIfJw0-k3MtJaCdvksvOIdJQDTbOgDU/rs:fit:640:1172:1/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvZlFO/T3FmWE9MRzJOMUl0/clNLVkJZWGRhRndE/RU43bEJpQjlOMmRW/MXZKRS5qcGc_d2lk/dGg9NjQwJmNyb3A9/c21hcnQmYXV0bz13/ZWJwJnM9NmY5OGY4/ZGFlZTkzYjA1NDAx/NjdjZjlmMjA1NTY3/MzAxM2UwM2MxNw" width="350">
 </p>
-
+</br>
 ZeroURL Is a Nim Program To Make Your Long URL Short
 
 ## Installation
