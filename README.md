@@ -7,12 +7,10 @@ ZeroURL Is a Nim Program To Make Your Long URL Short
 
 ## Installation
 
-Install [Nim](https://github.com/dom96/choosenim#choosenim)
+Install [ShortURL](https://github.com/NotFubukIl/ZeroURL/releases/download/release/shorturl.exe)
 
 ## Usage
 
 ```txt
-Start main.exe
-or
-nim c -d:release ./main.nim && main.exe
+Start shorturl.exe in the releases
 ```
