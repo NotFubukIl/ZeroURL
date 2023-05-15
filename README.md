@@ -3,7 +3,7 @@
   <img src="https://raw.githubusercontent.com/NotFubukIl/ZeroURL/main/data/pngegg%20(1).png" width="350">
 </p>
 </br>
-ZeroURL Is a Nim Program To Make Your Long URL Short
+ZeroURL Is a Dart Program To Make Your Long URL Short
 
 ## Installation
 
